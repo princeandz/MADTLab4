@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MADTLab4</string>
+    <string name="notes_title">Notes</string>
+    <string name="note_name_hint">Enter Title</string>
+    <string name="note_content_hint">Enter Content</string>
+    <string name="save_note">Save Note</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="empty_field_warning">Please Fill Both Fields </string>
 </resources>
